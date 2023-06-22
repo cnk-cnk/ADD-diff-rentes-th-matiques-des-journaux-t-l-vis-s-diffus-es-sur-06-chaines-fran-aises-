@@ -5,7 +5,7 @@
 > Institut national de l’audiovisuel (INA) est une entreprise publique crée en 1975. INA collecte et conserve les données de programmes télé, pour le grand public, en France comme à l’étranger.
 
 ## Projet
-* Le fichier PDF ci-joint contient le compte-rendu du projet
+* Le fichier PDF ci-joint contient le compte-rendu de l'analyse
 * Le fichier EXCEL ci-joint contient : 
   * la base de données transformée, nettoyée et validée
   * Le fichier de traitement. Ici, nous faisons les tableaux croisés dynamiques et graphiques qui répondent aux questions de l'analyse
