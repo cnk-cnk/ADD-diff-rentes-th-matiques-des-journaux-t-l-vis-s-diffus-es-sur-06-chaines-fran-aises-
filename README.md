@@ -11,7 +11,7 @@
 * Le fichier PDF ci-joint contient le compte-rendu de l'analyse
 * Le fichier EXCEL ci-joint contient : 
   * la base de données transformée, nettoyée et validée via Power Query
-  * Le fichier de traitement. Ici, nous faisons les tableaux croisés dynamiques et graphiques qui répondent aux questions de l'analyse
+  * Le fichier de traitement. Ici, nous nous mettons en place les tableaux croisés dynamiques et graphiques qui répondent aux questions de l'analyse
 * Le tableau de bord sur MS EXCEL
 
 
